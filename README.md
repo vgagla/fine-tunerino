@@ -1,4 +1,4 @@
-# Fine-Tunerino
+# MLOps - GPT-2 Fine-Tuning Pipeline
 
 A GPT-2 fine-tuning notebook that teaches a pre-trained language model new knowledge from custom PDF documents. This is the **local development starting point** for the MLOps capstone project.
 
